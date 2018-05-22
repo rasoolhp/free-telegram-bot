@@ -11,7 +11,7 @@
 اجرای کد های زیر در بش
 
 ```
-virtualenv —python=python2.7 mybot
+virtualenv --python=python2.7 mybot
 ```
 ```
 source mybot/bin/activate
