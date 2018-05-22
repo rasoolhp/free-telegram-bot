@@ -3,9 +3,9 @@
 با این آموزش میتونی یک ربات تلگرام رایگان به زبان پایتون راه بندازی
 
 ## پیش نیاز ها
-* [ساخت ربات در بات فادر](https://t.me/BotFather)
-* [ساخت حساب در پایتون انیور](https://www.pythonanywhere.com/registration/register/beginner/)
-* [ساخت بش جدید در پایتون انیور ](https://www.pythonanywhere.com/user/rasoolhp/consoles/bash/new)
+1. [ساخت ربات در بات فادر](https://t.me/BotFather)
+2. [ساخت حساب در پایتون انیور](https://www.pythonanywhere.com/registration/register/beginner/)
+3. [ساخت بش جدید در پایتون انیور ](https://www.pythonanywhere.com/user/rasoolhp/consoles/bash/new)
 ### نصب
 
 اجرای کد های زیر در بش
@@ -33,9 +33,7 @@ cd free-telegram-bot
 ```
 nano bot.py
 ```
-```
-توکن رو جایگذاری کن و بعد ذخیره کن با کنترل+ایکس بعد ایگرگ بعد اینتر
-```
+> توکن رو جایگذاری کن و بعد ذخیره کن با کنترل+ایکس بعد ایگرگ بعد اینتر
 ```
 cd ..
 ```
