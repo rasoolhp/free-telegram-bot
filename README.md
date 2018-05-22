@@ -19,6 +19,7 @@ source mybot/bin/activate
 ```
 pip install python-telegram-bot
 ```
+
 ### اجرا
 
 
@@ -26,6 +27,20 @@ pip install python-telegram-bot
 source mybot/bin/activate
 ```
 
+**برنامه ربات**
+
+```
+git clone https://github.com/rasoolhp/free-telegram-bot.git
+```
+
+```
+cd free-telegram-bot
+```
+
+```
+nano bot.py
+```
+توکن رو جایگذاری کن و بعد ذخیره و با کد زیر اجرا کن
 ```
 python2 mybot/bot.py
 ```
