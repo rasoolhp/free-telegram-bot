@@ -13,11 +13,12 @@
 ```
 virtualenv —python=python2.7 mybot
 ```
-
+```
+source mybot/bin/activate
+```
 ```
 pip install python-telegram-bot
 ```
-
 ### اجرا
 
 
@@ -28,5 +29,3 @@ source mybot/bin/activate
 ```
 python2 mybot/bot.py
 ```
-
-**BOLD** - *ITALIK*
