@@ -6,7 +6,7 @@
 * [ساخت ربات در بات فادر](https://t.me/BotFather)
 * [ساخت حساب در پایتون انیور](https://www.pythonanywhere.com/registration/register/beginner/)
 * [ساخت بش جدید در پایتون انیور ](https://www.pythonanywhere.com/user/rasoolhp/consoles/bash/new)
-### Installing
+### نصب
 
 اجرای کد های زیر در بش
 
